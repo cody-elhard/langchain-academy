@@ -3,7 +3,9 @@
   "graphs": {
     "simple_graph": "./simple.py:graph",
     "router": "./router.py:graph",
-    "agent": "./agent.py:graph"
+    "agent": "./agent.py:graph",
+    "codys_agent": "./codys_agent.py:graph",
+    "caeser_cipher": "./caesar_cipher.py:graph"
   },
   "env": "./.env",
   "python_version": "3.11",
